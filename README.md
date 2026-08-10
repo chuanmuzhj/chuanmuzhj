@@ -16,6 +16,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chuanmuzhj&show_icons=true&theme=radial" alt="Haojie's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=chuanmuzhj&layout=compact&theme=radial" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chuanmuzhj&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=chuanmuzhj&layout=compact&theme=radial" alt="Top Languages" />
 </p>
